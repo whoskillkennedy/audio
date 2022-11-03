@@ -1,0 +1,15 @@
+td {
+    height: 1px;
+    width: 200px;
+    border: 1px solid black;
+    border-radius: 5%;
+}
+table {
+    border-spacing: 0px;
+}    
+body {
+    background-color: grey;
+}
+audio {
+    color: black;
+}
